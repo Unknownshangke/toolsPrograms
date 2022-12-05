@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6b16f0c8-855d-4456-8a42-983c87c66da2" name="Changes" comment="">
+    <list default="true" id="6b16f0c8-855d-4456-8a42-983c87c66da2" name="Changes" comment="commit of tools2Ip">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/tools2Ip.java" afterDir="false" />
@@ -54,8 +55,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670232427309</updated>
-      <workItem from="1670232428781" duration="308000" />
+      <workItem from="1670232428781" duration="1059000" />
     </task>
+    <task id="LOCAL-00001" summary="commit of tools2Ip">
+      <created>1670233525213</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670233525213</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -71,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit of tools2Ip" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit of tools2Ip" />
   </component>
 </project>
